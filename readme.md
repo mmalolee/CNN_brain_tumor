@@ -1,4 +1,4 @@
-z requirements dodane numpy i matplotlib
+z requirements dodane numpy i matplotlib i sklearn
 
 torch jest normalnie przez conde bo cuda z cudą (hehe) mogły sie zdarzyc
 `conda install pytorch torchvision pytorch-cuda=11.8 -c pytorch -c nvidia`
